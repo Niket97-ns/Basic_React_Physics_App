@@ -1,0 +1,13 @@
+.signUpCard {
+  width: 400px;
+  position: fixed;
+  left: 60%;
+  top: 6%;
+}
+
+.signUpImage {
+  position: fixed;
+  left: 20%;
+  width: 800px;
+  height: 600px;
+}

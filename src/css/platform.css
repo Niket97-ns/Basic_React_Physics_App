@@ -1,0 +1,21 @@
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 30px 0;
+}
+
+.top_cards {
+  width: 270px;
+  height: 150px;
+}
+
+.bottom_cards {
+  width: 370px;
+  height: 150px;
+  border: 0.5px groove;
+  border-radius: 15px;
+  text-align: center;
+}

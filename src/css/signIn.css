@@ -1,0 +1,8 @@
+.signInCard {
+  background-color: rgba(245, 245, 245, 0.4) !important;
+  width: 400px;
+  position: fixed;
+  left: 60%;
+  top: 12%;
+  border: none;
+}
